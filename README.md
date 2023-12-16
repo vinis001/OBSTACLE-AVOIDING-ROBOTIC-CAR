@@ -10,3 +10,4 @@ ultrasonic waves are reflected from an object and that information
 is passed to the microcontroller. The microcontroller controls the
 motors to move the car left, right, back or front based on the
 ultrasonic signals.
+LINK:::https://www.tinkercad.com/things/8NcIebuij9J-ece1005-obstacle-avoiding-robot/editel
